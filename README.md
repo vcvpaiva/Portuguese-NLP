@@ -32,6 +32,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Carolina](https://sites.usp.br/corpuscarolina/) - Corpus Geral do Português Brasileiro Contemporâneo ([huggingface](https://huggingface.co/datasets/carolina-c4ai/corpus-carolina)).
 - [Capes](https://huggingface.co/datasets/capes) - parallel corpus of theses and dissertations abstracts in English and Portuguese.
 - [CC100-Portuguese](https://autonlp.ai/datasets/cc100-portuguese) - Created by Conneau & Wenzek et al. at 2020. This dataset is one of the 100 corpora of monolingual data that was processed from the January-December 2018 Commoncrawl snapshots from the CC-Net repository. 
+- [Central_de_fatos](https://doi.org/10.5281/zenodo.5191798) - ([Huggingface](https://huggingface.co/datasets/fake-news-UFG/central_de_fatos)).
 - [CETENFolha](https://www.linguateca.pt/cetenfolha/index_info.html) - news from the newspaper Folha de S. Paulo.
 - [CHAVE](https://www.linguateca.pt/CHAVE/) - collection for Information Retrieval and Question Answering.
 - [CINTIL Corpus](http://cintil.ul.pt/cintilfeatures.html#corpus) - a linguistically interpreted corpus of Portuguese. 
@@ -53,10 +54,10 @@ List of resources and tools developed with focus on Portuguese.
 - [FactNews](https://github.com/franciellevargas/FactNews) - dataset to predict sentence-level factuality of news reporting.
 - [fake voices](https://huggingface.co/datasets/unfake/fake_voices) - deepfakes in Brazilian Portuguese created with XTTS model.
 - [Fake.Br](https://github.com/roneysco/Fake.br-Corpus) - aligned true and fake news written in Brazilian Portuguese ([Hugginface](https://huggingface.co/datasets/fake-news-UFG/fakebr)).
-- [Central_de_fatos](https://doi.org/10.5281/zenodo.5191798) - ([Huggingface](https://huggingface.co/datasets/fake-news-UFG/central_de_fatos)).
 - [FakeNewsSet](https://github.com/kamplus/FakeNewsSetGen) - ([HuggingFace](https://huggingface.co/datasets/fake-news-UFG/FakeNewsSet)).
 - [Fakepedia-Corpus](https://github.com/andersoncordeiro/Fakepedia-Corpus) - fake news dataset.
 - [FakeRecogna](https://github.com/Gabriel-Lino-Garcia/FakeRecogna) - dataset comprised of real and fake news ([Huggingface](https://huggingface.co/datasets/recogna-nlp/FakeRecogna)).
+- [FakeTweetBr](https://huggingface.co/datasets/ju-resplande/FakeTweetBr) - Twitter Fake News Corpus and Automatic Verification of Rumors in Portuguese.
 - [FakeWhatsApp.Br](https://github.com/cabrau/FakeWhatsApp.Br) - An annotated Corpus of WhatsApp messages in PT-BR for automatic detection of textual misinformation.
 - [FKTC](https://github.com/GoloMarcos/FKTC) - FaKe news Text Collections.
 - [Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/) - treebank for Portuguese.
@@ -73,6 +74,7 @@ List of resources and tools developed with focus on Portuguese.
 - [Mac-Morpho](http://www.nilc.icmc.usp.br/macmorpho/) - Brazilian Portuguese texts annotated with part-of-speech tags.
 - [MilkQA](http://www.nilc.icmc.usp.br/nilc/index.php/milkqa/) - a dataset of dense questions for the task of answer selection.
 - [Minutes of Central Bank of Brazil](https://github.com/ajdavidl/corpus-atas-copom/blob/main/README_English.md) - Minutes of the Monetary Policy Committee of the Central Bank of Brazil.
+- [MuMiN-PT](https://huggingface.co/datasets/ju-resplande/MuMiN-PT) - MuMIN Portuguese Baseline subset.
 - [NER in Brazilian Portuguese tweets](https://www.kaggle.com/datasets/rafaelperes/ner-in-brazilian-portuguese-tweets) - Twitter messages in pt-br annotated for the entities PER, LOC and ORG.
 - [NERDE](https://huggingface.co/datasets/Gpaiva/NERDE) - Documents from [CADE](https://www.gov.br/cade/pt-br)'s jurisprudence annotated for the entities ORG, PER, TEMPO, LOC, LEG (legislation), DOCS (documents), VALOR. 
 - [News-Crawl-PT](https://data.statmt.org/news-crawl/pt/) - Monolingual News Crawl used for WMT.
@@ -88,6 +90,7 @@ List of resources and tools developed with focus on Portuguese.
 - [politiquices](https://github.com/politiquices/data-releases) -  Datasets related with the politiquices.pt project.
 - [PorSimplesSent](https://github.com/sidleal/porsimplessent) - of aligned sentences pairs to investigate sentence readability assessment.
 - [PortiLexicon-UD](https://portilexicon.icmc.usp.br/) -  a lexicon for Brazilian Portuguese according to Universal Dependencies.
+- [Portuguese Fact-Checking](https://huggingface.co/datasets/ju-resplande/portuguese-fact-checking) - Portuguese Automated Fact-Checking.
 - [Portuguese-Hate-Speech-Dataset](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset) - Portuguese dataset for hate speech detection composed of 5,668 tweets with binary annotations (i.e. 'hate' vs. 'no-hate') ([HuggingFace](https://huggingface.co/datasets/hate_speech_portuguese))
 - [Portuguese Legal Sentences](https://huggingface.co/datasets/rufimelo/PortugueseLegalSentences-v3) - Collection of Legal Sentences from the Portuguese Supreme Court of Justice.
 - [Portuguese Presidential Elections](https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md) - This dataset contains tweets and users mostly from the Portuguese Twittersphere.
